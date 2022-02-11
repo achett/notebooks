@@ -1,0 +1,12 @@
+1) Open Ananconda prompt
+2) Choose working directory
+
+C:\Users>cd C:\Users\A4023862\Documents\GitHub\notebooks
+
+3) Select env from terminal
+
+conda activate base
+
+4) Open Jupyter Lab from terminal
+
+jupyter lab
