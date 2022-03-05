@@ -12,4 +12,4 @@ conda activate base
 jupyter lab
 
 5) Install package for user only
-pip install atoti-jupyterlab --user
+pip install tensorflow --user
