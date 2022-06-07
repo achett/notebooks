@@ -1,7 +1,7 @@
 1) Open Ananconda prompt
 2) Choose working directory
 
-cd C:\Users\A4023862\Documents\GitHub\notebooks
+cd C:\Users\A4023862\Documents\GitHub
 
 3) Select env from terminal
 
@@ -12,4 +12,4 @@ conda activate base
 jupyter lab
 
 5) Install package for user only
-pip install tensorflow --user
+pip install --user pymc3
