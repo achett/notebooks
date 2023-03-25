@@ -1,0 +1,402 @@
+Actor,Movie,Screen Time,Source,Target
+Harry Potter,The Sorcerer's Stone,72:45,1,9
+Ron Weasley,The Sorcerer's Stone,28:15,1,10
+Hermione Granger,The Sorcerer's Stone,23:15,1,11
+Rubeus Hagrid,The Sorcerer's Stone,16:30,1,12
+Professor Albus Dumbledore,The Sorcerer's Stone,9:45,1,13
+Professor Minerva McGonagall,The Sorcerer's Stone,7:30,1,14
+Professor Quirinus Quirrell,The Sorcerer's Stone,7,1,15
+Draco Malfoy,The Sorcerer's Stone,4:15,1,16
+Professor Severus Snape,The Sorcerer's Stone,4,1,17
+Vernon Dursley,The Sorcerer's Stone,4,1,18
+Neville Longbottom,The Sorcerer's Stone,3:15,1,19
+Petunia Dursley,The Sorcerer's Stone,3,1,20
+Mr. Ollivander,The Sorcerer's Stone,3,1,21
+Dudley Dursley,The Sorcerer's Stone,2:45,1,22
+Oliver Wood,The Sorcerer's Stone,2:45,1,23
+Voldemort,The Sorcerer's Stone,2,1,24
+The Sorting Hat,The Sorcerer's Stone,2,1,25
+Hedwig,The Sorcerer's Stone,1:45,1,26
+Madame Hooch,The Sorcerer's Stone,1:45,1,27
+Percy Weasley,The Sorcerer's Stone,1:45,1,28
+Seamus Finnigan,The Sorcerer's Stone,1:45,1,29
+Fred Weasley,The Sorcerer's Stone,1:30,1,30
+George Weasley,The Sorcerer's Stone,1:30,1,31
+Firenze,The Sorcerer's Stone,1:30,1,32
+Dean Thomas,The Sorcerer's Stone,1:15,1,33
+Argus Filch,The Sorcerer's Stone,1:15,1,34
+Lily Potter,The Sorcerer's Stone,1:15,1,35
+James Potter,The Sorcerer's Stone,1,1,36
+Professor Filius Flitwick,The Sorcerer's Stone,1,1,37
+Fang,The Sorcerer's Stone,1,1,38
+"Sir Nicholas ""Nearly-Headless Nick""",The Sorcerer's Stone,:45,1,39
+Griphook,The Sorcerer's Stone,:45,1,40
+Lee Jordan,The Sorcerer's Stone,:45,1,41
+Marcus Flint,The Sorcerer's Stone,:45,1,42
+Alicia Spinnet,The Sorcerer's Stone,:45,1,43
+Vincent Crabbe,The Sorcerer's Stone,:45,1,44
+Gregory Goyle,The Sorcerer's Stone,:45,1,45
+Angelina Johnson,The Sorcerer's Stone,:30,1,46
+Katie Bell,The Sorcerer's Stone,:30,1,47
+Molly Weasley,The Sorcerer's Stone,:30,1,48
+Ginny Weasley,The Sorcerer's Stone,:15,1,49
+Fat Lady,The Sorcerer's Stone,:15,1,50
+"""Scabbers"" / Peter Pettigrew",The Sorcerer's Stone,:15,1,51
+Harry Potter,The Chamber of Secrets,83:45,2,9
+Ron Weasley,The Chamber of Secrets,38:15,2,10
+Hermione Granger,The Chamber of Secrets,15:30,2,11
+Professor Albus Dumbledore,The Chamber of Secrets,10:45,2,13
+Professor Gilderoy Lockhart,The Chamber of Secrets,10:30,2,52
+Rubeus Hagrid,The Chamber of Secrets,8:15,2,12
+Dobby,The Chamber of Secrets,7:30,2,53
+Draco Malfoy,The Chamber of Secrets,7,2,16
+Tom Riddle / Voldemort,The Chamber of Secrets,6:45,2,54
+Lucius Malfoy,The Chamber of Secrets,6:45,2,55
+Professor Minerva McGonagall,The Chamber of Secrets,5:45,2,14
+Ginny Weasley,The Chamber of Secrets,4:45,2,49
+Professor Severus Snape,The Chamber of Secrets,4:30,2,17
+Arthur Weasley,The Chamber of Secrets,2:30,2,56
+Cornelius Fudge,The Chamber of Secrets,2:30,2,57
+Vernon Dursley,The Chamber of Secrets,2:30,2,18
+Fred Weasley,The Chamber of Secrets,2:30,2,30
+George Weasley,The Chamber of Secrets,2:30,2,31
+Fawkes,The Chamber of Secrets,2:30,2,58
+Molly Weasley,The Chamber of Secrets,2:15,2,48
+Oliver Wood,The Chamber of Secrets,1:45,2,23
+Argus Filch,The Chamber of Secrets,1:45,2,34
+Hedwig,The Chamber of Secrets,1:45,2,26
+Moaning Myrtle,The Chamber of Secrets,1:30,2,59
+Petunia Dursley,The Chamber of Secrets,1:30,2,20
+Professor Pomona Sprout,The Chamber of Secrets,1:30,2,60
+Percy Weasley,The Chamber of Secrets,1:30,2,28
+Fang,The Chamber of Secrets,1:30,2,38
+Colin Creevy,The Chamber of Secrets,1:15,2,61
+Dudley Dursley,The Chamber of Secrets,1:15,2,22
+Neville Longbottom,The Chamber of Secrets,1:15,2,19
+Madame Poppy Pomfrey,The Chamber of Secrets,1:15,2,62
+Vincent Crabbe,The Chamber of Secrets,1:15,2,44
+Gregory Goyle,The Chamber of Secrets,1:15,2,45
+Dean Thomas,The Chamber of Secrets,1,2,33
+Seamus Finnigan,The Chamber of Secrets,1,2,29
+Aragog,The Chamber of Secrets,1,2,63
+Marcus Flint,The Chamber of Secrets,1,2,42
+The Sorting Hat,The Chamber of Secrets,:45,2,25
+Justin Finch-Fletchley,The Chamber of Secrets,:45,2,64
+"Sir Nicholas ""Nearly-Headless Nick""",The Chamber of Secrets,:45,2,39
+Angelina Johnson,The Chamber of Secrets,:30,2,46
+Alicia Spinnet,The Chamber of Secrets,:30,2,43
+Katie Bell,The Chamber of Secrets,:30,2,47
+"""Scabbers"" / Peter Pettigrew",The Chamber of Secrets,:30,2,51
+Professor Filius Flitwick,The Chamber of Secrets,:15,2,37
+Lee Jordan,The Chamber of Secrets,:15,2,41
+Harry Potter,The Prisoner of Azkaban,74:30,3,9
+Hermione Granger,The Prisoner of Azkaban,34:45,3,11
+Ron Weasley,The Prisoner of Azkaban,21:15,3,10
+Professor Remus Lupin,The Prisoner of Azkaban,19:15,3,65
+Sirius Black,The Prisoner of Azkaban,11:30,3,66
+Buckbeak,The Prisoner of Azkaban,7:45,3,67
+Professor Albus Dumbledore,The Prisoner of Azkaban,6:15,3,13
+Professor Severus Snape,The Prisoner of Azkaban,5:45,3,17
+Professor Rubeus Hagrid,The Prisoner of Azkaban,5:15,3,68
+Draco Malfoy,The Prisoner of Azkaban,4,3,16
+Cornelius Fudge,The Prisoner of Azkaban,3,3,57
+Neville Longbottom,The Prisoner of Azkaban,3,3,19
+Vernon Dursley,The Prisoner of Azkaban,3,3,18
+Professor Sybil Trelawney,The Prisoner of Azkaban,2:45,3,69
+Marge Dursley,The Prisoner of Azkaban,2:45,3,70
+Fred Weasley,The Prisoner of Azkaban,2:45,3,30
+George Weasley,The Prisoner of Azkaban,2:45,3,31
+Peter Pettigrew,The Prisoner of Azkaban,2:30,3,71
+Petunia Dursley,The Prisoner of Azkaban,2:15,3,20
+Vincent Crabbe,The Prisoner of Azkaban,2,3,44
+Gregory Goyle,The Prisoner of Azkaban,2,3,45
+Stan Shunpike,The Prisoner of Azkaban,2,3,72
+Professor Minerva McGonagall,The Prisoner of Azkaban,1:45,3,14
+Arthur Weasley,The Prisoner of Azkaban,1:45,3,56
+Dudley Dursley,The Prisoner of Azkaban,1:45,3,22
+Seamus Finnigan,The Prisoner of Azkaban,1:45,3,29
+Parvati Patil,The Prisoner of Azkaban,1:15,3,73
+Argus Filch,The Prisoner of Azkaban,1:15,3,34
+Hedwig,The Prisoner of Azkaban,1,3,26
+Madame Rosmerta,The Prisoner of Azkaban,1,3,74
+Lavender Brown,The Prisoner of Azkaban,1,3,75
+Tom,The Prisoner of Azkaban,1,3,76
+Ernie Prang,The Prisoner of Azkaban,1,3,77
+Dean Thomas,The Prisoner of Azkaban,:45,3,33
+Molly Weasley,The Prisoner of Azkaban,:45,3,48
+Percy Weasley,The Prisoner of Azkaban,:45,3,28
+The Fat Lady,The Prisoner of Azkaban,:45,3,78
+Professor Filius Flitwick,The Prisoner of Azkaban,:45,3,37
+Crookshanks,The Prisoner of Azkaban,:45,3,79
+Ginny Weasley,The Prisoner of Azkaban,:30,3,49
+Angelina Johnson,The Prisoner of Azkaban,:30,3,46
+Pansy Parkinson,The Prisoner of Azkaban,:30,3,80
+Harry Potter,The Goblet of Fire,63:15,4,9
+Ron Weasley,The Goblet of Fire,20:30,4,10
+Hermione Granger,The Goblet of Fire,16:30,4,11
+Bartemius Crouch Jr.,The Goblet of Fire,16:15,4,81
+Professor Albus Dumbledore,The Goblet of Fire,14:15,4,13
+Cedric Diggory,The Goblet of Fire,8,4,82
+Voldemort,The Goblet of Fire,6:30,4,24
+Bartemius Crouch Sr.,The Goblet of Fire,5:15,4,83
+Viktor Krum,The Goblet of Fire,5:15,4,84
+Professor Severus Snape,The Goblet of Fire,4:45,4,17
+Professor Minerva McGonagall,The Goblet of Fire,4:30,4,14
+Fred Weasley,The Goblet of Fire,4:30,4,30
+George Weasley,The Goblet of Fire,4:30,4,31
+Fleur Delacour,The Goblet of Fire,4:30,4,85
+Neville Longbottom,The Goblet of Fire,4:15,4,19
+Professor Rubeus Hagrid,The Goblet of Fire,3:45,4,68
+Peter Pettigrew,The Goblet of Fire,3:30,4,71
+Ginny Weasley,The Goblet of Fire,3:30,4,49
+Professor Igor Karkaroff,The Goblet of Fire,3:15,4,86
+Rita Skeeter,The Goblet of Fire,3:15,4,87
+Madame Olympe Maxime,The Goblet of Fire,3,4,88
+Arthur Weasley,The Goblet of Fire,2:30,4,56
+Draco Malfoy,The Goblet of Fire,2:15,4,16
+Cho Chang,The Goblet of Fire,1:45,4,89
+Parvati Patil,The Goblet of Fire,1:45,4,73
+Padma Patil,The Goblet of Fire,1:45,4,90
+Lucius Malfoy,The Goblet of Fire,1:30,4,55
+Amos Diggory,The Goblet of Fire,1:30,4,91
+Seamus Finnigan,The Goblet of Fire,1:30,4,29
+Frank Bryce,The Goblet of Fire,1:30,4,92
+Gabrielle Delacour,The Goblet of Fire,1:30,4,93
+Sirius Black,The Goblet of Fire,1:15,4,66
+Moaning Myrtle,The Goblet of Fire,1:15,4,59
+Cornelius Fudge,The Goblet of Fire,1,4,57
+Dean Thomas,The Goblet of Fire,1,4,33
+Argus Filch,The Goblet of Fire,:45,4,34
+Professor Filius Flitwick,The Goblet of Fire,:45,4,37
+Vincent Crabbe,The Goblet of Fire,:45,4,44
+Gregory Goyle,The Goblet of Fire,:45,4,45
+"Alastor ""Mad-Eye"" Moody",The Goblet of Fire,:30,4,94
+Nigel,The Goblet of Fire,:30,4,95
+Nagini,The Goblet of Fire,:30,4,96
+Lily Potter,The Goblet of Fire,:15,4,35
+James Potter,The Goblet of Fire,:15,4,36
+Hedwig,The Goblet of Fire,:15,4,26
+Angelina Johnson,The Goblet of Fire,:15,4,46
+Fawkes,The Goblet of Fire,:15,4,58
+Harry Potter,The Order of the Phoenix,61:45,5,9
+Hermione Granger,The Order of the Phoenix,23,5,11
+Ron Weasley,The Order of the Phoenix,21,5,10
+Professor Dolores Umbridge,The Order of the Phoenix,14:15,5,97
+Luna Lovegood,The Order of the Phoenix,9:15,5,98
+Neville Longbottom,The Order of the Phoenix,9,5,19
+Sirius Black,The Order of the Phoenix,7:30,5,66
+Professor Albus Dumbledore,The Order of the Phoenix,7:30,5,13
+Ginny Weasley,The Order of the Phoenix,6:45,5,49
+Fred Weasley,The Order of the Phoenix,5,5,30
+George Weasley,The Order of the Phoenix,5,5,31
+Professor Severus Snape,The Order of the Phoenix,4,5,17
+Dudley Dursley,The Order of the Phoenix,3:45,5,22
+Cho Chang,The Order of the Phoenix,3:30,5,89
+Arthur Weasley,The Order of the Phoenix,3:30,5,56
+Lucius Malfoy,The Order of the Phoenix,3,5,55
+Cornelius Fudge,The Order of the Phoenix,2:45,5,57
+Professor Rubeus Hagrid,The Order of the Phoenix,2:45,5,68
+Kingsley Shacklebolt,The Order of the Phoenix,2:30,5,99
+Voldemort,The Order of the Phoenix,2:15,5,24
+Argus Filch,The Order of the Phoenix,2:15,5,34
+Bellatrix Lestrange,The Order of the Phoenix,2,5,100
+Professor Minerva McGonagall,The Order of the Phoenix,2,5,14
+Professor Sybil Trelawney,The Order of the Phoenix,2,5,69
+Molly Weasley,The Order of the Phoenix,1:45,5,48
+Nymphadora Tonks,The Order of the Phoenix,1:45,5,101
+Seamus Finnigan,The Order of the Phoenix,1:45,5,29
+Grawp,The Order of the Phoenix,1:45,5,102
+"Alastor ""Mad-Eye"" Moody",The Order of the Phoenix,1:30,5,94
+Parvati Patil,The Order of the Phoenix,1:30,5,73
+Padma Patil,The Order of the Phoenix,1:30,5,90
+Arabella Figg,The Order of the Phoenix,1:30,5,103
+Remus Lupin,The Order of the Phoenix,1:15,5,104
+Draco Malfoy,The Order of the Phoenix,1:15,5,16
+Vincent Crabbe,The Order of the Phoenix,1:15,5,44
+Gregory Goyle,The Order of the Phoenix,1:15,5,45
+Vernon Dursley,The Order of the Phoenix,1:15,5,18
+Petunia Dursley,The Order of the Phoenix,1:15,5,20
+Dean Thomas,The Order of the Phoenix,1:15,5,33
+Nigel,The Order of the Phoenix,1:15,5,95
+Kreacher,The Order of the Phoenix,:45,5,105
+Amelia Bones,The Order of the Phoenix,:45,5,106
+Crookshanks,The Order of the Phoenix,:45,5,79
+Hedwig,The Order of the Phoenix,:30,5,26
+Professor Filius Flitwick,The Order of the Phoenix,:30,5,37
+Percy Weasley,The Order of the Phoenix,:30,5,28
+James Potter,The Order of the Phoenix,:30,5,36
+Lily Potter,The Order of the Phoenix,:15,5,35
+Cedric Diggory,The Order of the Phoenix,:15,5,82
+Nagini,The Order of the Phoenix,:15,5,96
+Fang,The Order of the Phoenix,:15,5,38
+Fawkes,The Order of the Phoenix,:15,5,58
+Harry Potter,The Half-Blood Price,67,6,9
+Professor Albus Dumbledore,The Half-Blood Price,22:15,6,13
+Ron Weasley,The Half-Blood Price,21:45,6,10
+Hermione Granger,The Half-Blood Price,20,6,11
+Professor Horace Slughorn,The Half-Blood Price,18,6,107
+Professor Severus Snape,The Half-Blood Price,9:15,6,17
+Ginny Weasley,The Half-Blood Price,8:45,6,49
+Draco Malfoy,The Half-Blood Price,8:15,6,16
+Tom Riddle / Voldemort,The Half-Blood Price,4:15,6,54
+Professor Rubeus Hagrid,The Half-Blood Price,4,6,68
+Bellatrix Lestrange,The Half-Blood Price,3:45,6,100
+Professor Minerva McGonagall,The Half-Blood Price,3:45,6,14
+Lavender Brown,The Half-Blood Price,3:30,6,75
+Luna Lovegood,The Half-Blood Price,3:15,6,98
+Narcissa Malfoy,The Half-Blood Price,2:45,6,108
+Arthur Weasley,The Half-Blood Price,2:45,6,56
+Remus Lupin,The Half-Blood Price,2,6,104
+Nymphadora Tonks,The Half-Blood Price,1:45,6,101
+Neville Longbottom,The Half-Blood Price,1:30,6,19
+Cormac McLaggen,The Half-Blood Price,1:30,6,109
+Molly Weasley,The Half-Blood Price,1:15,6,48
+Fenrir Greyback,The Half-Blood Price,1:15,6,110
+Romilda Vane,The Half-Blood Price,1,6,111
+Blaise Zabini,The Half-Blood Price,1,6,112
+Katie Bell,The Half-Blood Price,1,6,47
+Fred Weasley,The Half-Blood Price,:45,6,30
+George Weasley,The Half-Blood Price,:45,6,31
+Amycus Carrow,The Half-Blood Price,:45,6,113
+Alecto Carrow,The Half-Blood Price,:45,6,114
+Fang,The Half-Blood Price,:45,6,38
+Aragog,The Half-Blood Price,:45,6,63
+Madame Poppy Pomfrey,The Half-Blood Price,:45,6,62
+Pansy Parkinson,The Half-Blood Price,:45,6,80
+Professor Filius Flitwick,The Half-Blood Price,:30,6,37
+Leanne,The Half-Blood Price,:30,6,115
+Seamus Finnigan,The Half-Blood Price,:30,6,29
+Dean Thomas,The Half-Blood Price,:30,6,33
+Hedwig,The Half-Blood Price,:30,6,26
+Argus Filch,The Half-Blood Price,:15,6,34
+Vincent Crabbe,The Half-Blood Price,:15,6,44
+Gregory Goyle,The Half-Blood Price,:15,6,45
+Parvati Patil,The Half-Blood Price,:15,6,73
+Padma Patil,The Half-Blood Price,:15,6,90
+Nigel,The Half-Blood Price,:15,6,95
+Cho Chang,The Half-Blood Price,:15,6,89
+Peter Pettigrew,The Half-Blood Price,:15,6,71
+Fawkes,The Half-Blood Price,:15,6,58
+Harry Potter,The Deathly Hallows: Part 1,68:15,7,9
+Hermione Granger,The Deathly Hallows: Part 1,46,7,11
+Ron Weasley,The Deathly Hallows: Part 1,35:45,7,10
+Voldemort,The Deathly Hallows: Part 1,5,7,24
+Xenophilius Lovegood,The Deathly Hallows: Part 1,5,7,116
+Professor Rubeus Hagrid,The Deathly Hallows: Part 1,4:15,7,68
+Dobby,The Deathly Hallows: Part 1,3:45,7,53
+Bellatrix Lestrange,The Deathly Hallows: Part 1,3,7,100
+Mundungus Fletcher,The Deathly Hallows: Part 1,3,7,117
+Scabior,The Deathly Hallows: Part 1,2:45,7,118
+Luna Lovegood,The Deathly Hallows: Part 1,2:30,7,98
+Rufus Scrimgeour,The Deathly Hallows: Part 1,2:30,7,119
+Lucius Malfoy,The Deathly Hallows: Part 1,2:30,7,55
+Narcissa Malfoy,The Deathly Hallows: Part 1,2:30,7,108
+Draco Malfoy,The Deathly Hallows: Part 1,2:15,7,16
+Kreacher,The Deathly Hallows: Part 1,2:15,7,105
+George Weasley,The Deathly Hallows: Part 1,2:15,7,31
+Fred Weasley,The Deathly Hallows: Part 1,2,7,30
+Remus Lupin,The Deathly Hallows: Part 1,2,7,104
+Ginny Weasley,The Deathly Hallows: Part 1,2,7,49
+Yaxley,The Deathly Hallows: Part 1,2,7,120
+Dolores Umbridge,The Deathly Hallows: Part 1,1:45,7,121
+Arthur Weasley,The Deathly Hallows: Part 1,1:45,7,56
+Mary Cattermole,The Deathly Hallows: Part 1,1:45,7,122
+Bathilda Bagshot,The Deathly Hallows: Part 1,1:30,7,123
+"Alastor ""Mad-Eye"" Moody",The Deathly Hallows: Part 1,1:30,7,94
+Fleur Delacour,The Deathly Hallows: Part 1,1:30,7,85
+Bill Weasley,The Deathly Hallows: Part 1,1:15,7,124
+Professor Severus Snape,The Deathly Hallows: Part 1,1:15,7,17
+Molly Weasley,The Deathly Hallows: Part 1,1:15,7,48
+Mr. Ollivander,The Deathly Hallows: Part 1,1,7,21
+Griphook,The Deathly Hallows: Part 1,1,7,40
+Peter Pettigrew,The Deathly Hallows: Part 1,1,7,71
+Nagini,The Deathly Hallows: Part 1,1,7,96
+Nymphadora Tonks,The Deathly Hallows: Part 1,1,7,101
+Kingsley Shacklebolt,The Deathly Hallows: Part 1,1,7,99
+Elphias Doge,The Deathly Hallows: Part 1,1,7,125
+Pius Thicknesse,The Deathly Hallows: Part 1,:45,7,126
+Professor Albus Dumbledore,The Deathly Hallows: Part 1,:45,7,13
+Auntie Muriel,The Deathly Hallows: Part 1,:45,7,127
+Reginald Cattermole,The Deathly Hallows: Part 1,:45,7,128
+Albert Runcorn,The Deathly Hallows: Part 1,:30,7,129
+Mafalda Hopkirk,The Deathly Hallows: Part 1,:30,7,130
+Hedwig,The Deathly Hallows: Part 1,:30,7,26
+Gregorovitch,The Deathly Hallows: Part 1,:30,7,131
+Gellert Grindelwald,The Deathly Hallows: Part 1,:30,7,132
+Aberforth Dumbledore,The Deathly Hallows: Part 1,:15,7,133
+Rita Skeeter,The Deathly Hallows: Part 1,:15,7,87
+Madame Olympe Maxime,The Deathly Hallows: Part 1,:15,7,88
+Amycus Carrow,The Deathly Hallows: Part 1,:15,7,113
+Alecto Carrow,The Deathly Hallows: Part 1,:15,7,114
+Seamus Finnigan,The Deathly Hallows: Part 1,:15,7,29
+Nigel,The Deathly Hallows: Part 1,:15,7,95
+Gregory Goyle,The Deathly Hallows: Part 1,:15,7,45
+Cormac McLaggen,The Deathly Hallows: Part 1,:15,7,109
+Padma Patil,The Deathly Hallows: Part 1,:15,7,90
+Neville Longbottom,The Deathly Hallows: Part 1,:15,7,19
+Romilda Vane,The Deathly Hallows: Part 1,:15,7,111
+Vernon Dursley,The Deathly Hallows: Part 1,:15,7,18
+Dudley Dursley,The Deathly Hallows: Part 1,:15,7,22
+Petunia Dursley,The Deathly Hallows: Part 1,:15,7,20
+Buckbeak,The Deathly Hallows: Part 1,:15,7,67
+Crookshanks,The Deathly Hallows: Part 1,:15,7,79
+Harry Potter,The Deathly Hallows: Part 2,48,8,9
+Hermione Granger,The Deathly Hallows: Part 2,26,8,11
+Ron Weasley,The Deathly Hallows: Part 2,25,8,10
+Voldemort,The Deathly Hallows: Part 2,10:30,8,24
+Professor Severus Snape,The Deathly Hallows: Part 2,9:45,8,17
+Neville Longbottom,The Deathly Hallows: Part 2,5:45,8,19
+Professor Albus Dumbledore,The Deathly Hallows: Part 2,5:45,8,13
+Griphook,The Deathly Hallows: Part 2,5:30,8,40
+Ginny Weasley,The Deathly Hallows: Part 2,3:45,8,49
+Professor Minerva McGonagall,The Deathly Hallows: Part 2,3:30,8,14
+Aberforth Dumbledore,The Deathly Hallows: Part 2,3:15,8,133
+Mr. Ollivander,The Deathly Hallows: Part 2,3:15,8,21
+Bogrod,The Deathly Hallows: Part 2,3,8,134
+Draco Malfoy,The Deathly Hallows: Part 2,2:30,8,16
+Luna Lovegood,The Deathly Hallows: Part 2,2:15,8,98
+Helena Ravenclaw,The Deathly Hallows: Part 2,2:15,8,135
+Molly Weasley,The Deathly Hallows: Part 2,2,8,48
+Bellatrix Lestrange,The Deathly Hallows: Part 2,1:45,8,100
+Lily Potter,The Deathly Hallows: Part 2,1:45,8,35
+Albus Severus Potter,The Deathly Hallows: Part 2,1:45,8,136
+Nagini,The Deathly Hallows: Part 2,1:45,8,96
+Narcissa Malfoy,The Deathly Hallows: Part 2,1:30,8,108
+Lucius Malfoy,The Deathly Hallows: Part 2,1:30,8,55
+Remus Lupin,The Deathly Hallows: Part 2,1:30,8,104
+Professor Filius Flitwick,The Deathly Hallows: Part 2,1:30,8,37
+Blaise Zabini,The Deathly Hallows: Part 2,1:30,8,112
+Seamus Finnigan,The Deathly Hallows: Part 2,1:15,8,29
+Cho Chang,The Deathly Hallows: Part 2,1:15,8,89
+Gregory Goyle,The Deathly Hallows: Part 2,1:15,8,45
+Professor Rubeus Hagrid,The Deathly Hallows: Part 2,1,8,68
+Arthur Weasley,The Deathly Hallows: Part 2,1,8,56
+Lavender Brown,The Deathly Hallows: Part 2,1,8,75
+Padma Patil,The Deathly Hallows: Part 2,1,8,90
+Dean Thomas,The Deathly Hallows: Part 2,1,8,33
+Kingsley Shacklebolt,The Deathly Hallows: Part 2,1,8,99
+Amycus Carrow,The Deathly Hallows: Part 2,1,8,113
+Alecto Carrow,The Deathly Hallows: Part 2,1,8,114
+George Weasley,The Deathly Hallows: Part 2,1,8,31
+Fred Weasley,The Deathly Hallows: Part 2,:45,8,30
+Professor Horace Slughorn,The Deathly Hallows: Part 2,:45,8,107
+Leanne,The Deathly Hallows: Part 2,:45,8,115
+Romilda Vane,The Deathly Hallows: Part 2,:45,8,111
+Katie Bell,The Deathly Hallows: Part 2,:45,8,47
+Cormac McLaggen,The Deathly Hallows: Part 2,:45,8,109
+Scabior,The Deathly Hallows: Part 2,:45,8,118
+Nigel,The Deathly Hallows: Part 2,:45,8,95
+Bill Weasley,The Deathly Hallows: Part 2,:30,8,124
+Fleur Delacour,The Deathly Hallows: Part 2,:30,8,85
+Nymphadora Tonks,The Deathly Hallows: Part 2,:30,8,101
+Fenrir Greyback,The Deathly Hallows: Part 2,:30,8,110
+Pius Thicknesse,The Deathly Hallows: Part 2,:30,8,126
+James Potter,The Deathly Hallows: Part 2,:30,8,36
+Sirius Black,The Deathly Hallows: Part 2,:30,8,66
+Professor Pomona Sprout,The Deathly Hallows: Part 2,:30,8,60
+Argus Filch,The Deathly Hallows: Part 2,:30,8,34
+Percy Weasley,The Deathly Hallows: Part 2,:30,8,28
+Professor Sybil Trelawney,The Deathly Hallows: Part 2,:15,8,69
+Madame Poppy Pomfrey,The Deathly Hallows: Part 2,:15,8,62
+Peter Pettigrew,The Deathly Hallows: Part 2,:15,8,71
+The Sorting Hat,The Deathly Hallows: Part 2,:15,8,25
