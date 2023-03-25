@@ -1,0 +1,26 @@
+---
+title: "LOE Testing"
+output: html_notebook
+---
+
+```{r}
+library(tidyr)
+
+mi<- read.csv('C:/Users/A4023862/OneDrive - Astellas Pharma Inc/ForecastAI/LOE/inputs/mi.csv')
+mi_loe<- read.csv('C:/Users/A4023862/OneDrive - Astellas Pharma Inc/ForecastAI/LOE/inputs/mi_loe.csv')
+
+mi %>%
+    pivot_longer(
+    cols = starts_with("X"),
+    names_to = "ds",
+    names_prefix = "X",
+    values_to = "value",
+    values_drop_na = FALSE
+  )
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
