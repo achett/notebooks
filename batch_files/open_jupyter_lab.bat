@@ -1,0 +1,1 @@
+C:\Users\A4023862\Anaconda3\python.exe C:\Users\A4023862\Anaconda3\cwp.py C:\Users\A4023862\Anaconda3 C:\Users\A4023862\Anaconda3\python.exe C:\Users\A4023862\Anaconda3\Scripts\jupyter-lab-script.py C:\Users\A4023862\Documents\GitHub
